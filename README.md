@@ -1,8 +1,46 @@
-# React + Vite
+# Módulo 6 Introducción Express JS - Desafío 2 - Mi Repertorio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Presentación del Desafío
 
-Currently, two official plugins are available:
+![Pantalla VSCode](./images/pantallaPY.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## <br/>
+
+## Descripción del PY ⌨️
+
+La escuela de música “E-Sueño” necesita desarrolladores freelance para la creación de una aplicación tipo CRUD. En este desafío desarrollamos un servidor con Express que utilice el módulo File
+System para agregar, modificar y eliminar canciones almacenadas en un JSON local llamado repertorio.json.
+
+Para ejecutar el PY:
+
+1. Subir el servidor, ejecutando en el bash: nodemon server.js
+2. Abrir en el navegador la url: http://localhost:3000/
+
+## Requerimientos entregados:
+
+1. Se levantó un servidor local usando Express Js.
+2. Se devuelve una página web como respuesta a una consulta GET.
+3. Ofrecemos diferentes rutas con diferentes métodos HTTP que permitan las operaciones CRUD de datos alojados en un archivo JSON local.
+4. Se manipularon los parámetros obtenidos en la URL.
+5. Se manipuló el payload de una consulta HTTP al servidor.
+
+## <br/>
+
+## Tecnologías Usadas 🛠️
+
+- **Backend:** Node.js, Express.js, File System. 🧑‍💻
+- **Frontend:** HTML, CSS, Bootstrap, Axios. 📚
+- **Almacenamiento:** Archivo JSON (repertorio.json). 🫙
+
+<br/>
+
+---
+
+<br>
+
+## Autores 👨‍💻
+
+**Luis Fernando Sanchez F. - Daniel Hernández - Desarrolladores Fullstack G60⚡**
+
+Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfernandosanchezflorez)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
+<br>
